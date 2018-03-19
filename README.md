@@ -5,7 +5,7 @@ Lecture note for animal nutrition and feeding (Seojung Univ.)
 [1. Introduction](https://youngjunna.github.io/2018/02/02/CANF-Introduction/)  
 2. History of the nutritional science  
 3. Gastro-intestinal tract (GIT)  
-[4. Mouth](https://youngjunna.github.io/2018/02/05/CANF-Mouth)
+[4. Mouth and esophagus](https://youngjunna.github.io/2018/02/05/CANF-Mouth)
 
 ## Textbook
 - Canine and Feline Nutrition (Third Edition)-[PDF download link](http://library.aceondo.net/ebooks/Home_Economics/Canine_and_Feline_Nutrition.pdf)
