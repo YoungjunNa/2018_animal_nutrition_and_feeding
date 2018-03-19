@@ -3,8 +3,8 @@ Lecture note for animal nutrition and feeding (Seojung Univ.)
 
 ## Table of contents
 [1. Introduction](https://youngjunna.github.io/2018/02/02/CANF-Introduction/)  
-2. History of nutritional science
-3. Gastro-intestinal tract (GIT)
+2. History of nutritional science  
+3. Gastro-intestinal tract (GIT)  
 [4. 입--Mouth](https://youngjunna.github.io/2018/02/05/CANF-Mouth)
 
 ## Textbook
