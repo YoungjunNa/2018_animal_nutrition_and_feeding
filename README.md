@@ -11,11 +11,24 @@ Lecture note for animal nutrition and feeding (Seojung Univ.)
   + 3.4. Large intestine  
 4. Comparative characteristics of GIT  
 5. Digestion and absorption  
-6. Water  
-7. Energy  
-8. Carbohydrate  
-9. Lipid  
-10. Protein  
+6. Metabolism of nutrients
+  + 6.1. Water  
+  + 6.2. Energy  
+  + 6.3. Carbohydrate  
+  + 6.4. Lipid  
+  + 6.5. Protein  
+  + 6.6. Vitamin  
+  + 6.7. Mineral
+7. Feed additives  
+8. Feed evaluation  
+9. Growth of canine and feline  
+10. Maintenance  
+11. Performance and geriatrics  
+12. Feeding standard  
+  + 12.1. History and regulation of pet foods  
+  + 12.2. Nutrient requirement  
+  + 12.3. Feed formulation  
+13. Common nutrition myths and feeding practice  
 
 
 ## Textbook
