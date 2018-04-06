@@ -30,6 +30,8 @@ Lecture note for animal nutrition and feeding (Seojung Univ.)
   + 12.3. Feed formulation  
 13. Common nutrition myths and feeding practice  
 
+## Youtube
+- [Lipoprotein](https://www.youtube.com/watch?v=qglYWog3o8M)
 
 ## Textbook
 - Canine and Feline Nutrition (Third Edition)-[PDF download link](http://library.aceondo.net/ebooks/Home_Economics/Canine_and_Feline_Nutrition.pdf)
