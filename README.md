@@ -35,4 +35,5 @@ Lecture note for animal nutrition and feeding (Seojeong Colledge)
 
 ## Textbook
 - Canine and Feline Nutrition (Third Edition)-[PDF download link](http://library.aceondo.net/ebooks/Home_Economics/Canine_and_Feline_Nutrition.pdf)
-- [가축영양학](http://press.knou.ac.kr/goods/textBookView.do?condCmdtCode=9788920909443&condLscValue=001&condYr=&condSmst=)
+- [가축영양학](http://press.knou.ac.kr/goods/textBookView.do?condCmdtCode=9788920909443&condLscValue=001&condYr=&condSmst=)  
+- http://www.anfaac.org/files/guias/Nutritional_guidelines_2012.pdf . 
