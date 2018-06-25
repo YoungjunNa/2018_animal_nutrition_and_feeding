@@ -1,5 +1,5 @@
 # 2018_animal_nutrition_and_feeding
-Lecture note for animal nutrition and feeding (Seojeong Colledge)
+Lecture note for animal nutrition and feeding (Seojeong College)
 
 ## Table of contents
 1. [Introduction](https://youngjunna.github.io/2018/02/02/CANF-Introduction/)  
